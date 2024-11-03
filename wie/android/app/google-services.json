@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1081832946971",
+    "project_id": "wieproject-7261b",
+    "storage_bucket": "wieproject-7261b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081832946971:android:d2379e4caf0f7828f3e7be",
+        "android_client_info": {
+          "package_name": "com.example.wie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081832946971-oh81oe6gke67n8s8695cq077kuvo9ur9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wie",
+            "certificate_hash": "ed72ee59753547bcc7599deb568d3321f816227a"
+          }
+        },
+        {
+          "client_id": "1081832946971-t3eqrci472tdhu7e5ubjnlurjaibg713.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk1buJbahUb_HNalqLb052NicxeNZGR3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081832946971-t3eqrci472tdhu7e5ubjnlurjaibg713.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1081832946971-avdjkg1oci87ot2hjq2bjrcrk3oefiaa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wie"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
