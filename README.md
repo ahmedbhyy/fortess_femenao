@@ -4,14 +4,16 @@
 
 ## Platform Overview
 
-**Web Application**  
-- **Tech Stack:** Next.js, Firebase  
-- **Folder:** `chat`  
+**Web Application**
+
+- **Tech Stack:** Next.js, Firebase
+- **Folder:** `chat`
 - Provides real-time chat, course materials, and collaborative tools.
 
-**Mobile Application**  
-- **Tech Stack:** Flutter, Firebase  
-- **Folder:** `mobile`  
+**Mobile Application**
+
+- **Tech Stack:** Flutter, Firebase
+- **Folder:** `mobile`
 - Allows learning on-the-go with access to all courses, discussions, and resources.
 
 ---
@@ -20,9 +22,10 @@
 
 1. **Clone Repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ahmedbhyy/fortess_femenao
    cd chat
-Install Dependencies:
+   Install Dependencies:
+   ```
 
 bash
 Copy code
